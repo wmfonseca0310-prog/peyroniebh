@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wmfonseca0310-prog.github.io/peyroniebh/sitemap.xml
